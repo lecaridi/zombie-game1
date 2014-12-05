@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game title="My Great Project" GSCVersion="0.10.4" PGFVersion="0.19">
+  <attributes>
+    <text id="name">default name</text>
+    <real id="time">0</real>
+    <size id="displaySize">
+      <real id="width">480</real>
+      <real id="height">320</real>
+    </size>
+    <text id="actorTags">All	players	characters	text	backgrounds	solids</text>
+    <real id="id304559" name="player x">0</real>
+    <real id="id716542" name="player y">0</real>
+    <boolean id="id359324" name="player alive">true</boolean>
+    <integer id="id308270" name="score">0</integer>
+    <integer id="id460143" name="life">10</integer>
+  </attributes>
+  <tags />
+  <resolutionIndependence>0</resolutionIndependence>
+  <instructions>Add game instructions here.</instructions>
+  <resolution>0</resolution>
+  <longDescription>A simple game.</longDescription>
+  <prototypes>
+    <actor id="id430902" />
+    <actor id="id433233" />
+    <actor id="id313722" />
+    <actor id="id740263" />
+    <actor id="id157135" />
+    <actor id="id609505" />
+    <actor id="id937311" />
+    <actor id="id570183" />
+    <actor id="id532505" />
+    <actor id="id737803" />
+    <actor id="id371622" />
+    <actor id="id874109" />
+    <actor id="id334461" />
+    <actor id="id493896" />
+    <actor id="id731542" />
+    <actor id="id648192" />
+    <actor id="id947698" />
+    <actor id="id914874" />
+    <actor id="id842040" />
+  </prototypes>
+  <plugins />
+  <scenes>
+    <scene id="id770703" />
+    <scene id="id299160" />
+    <scene id="id370117" />
+    <scene id="id587060" />
+  </scenes>
+</game>

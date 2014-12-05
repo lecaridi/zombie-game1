@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<assets PGFVersion="0.19" GSCVersion="0.10.4">
+  <sounds />
+  <images>
+    <image name="background">
+      <file name="background.png" size="32656" />
+    </image>
+    <image name="characters 2">
+      <file name="characters 2.png" size="537" />
+    </image>
+    <image name="characters 3">
+      <file name="characters 3.png" size="539" />
+    </image>
+    <image name="characters 4">
+      <file name="characters 4.png" size="558" />
+    </image>
+    <image name="characters 5">
+      <file name="characters 5.png" size="583" />
+    </image>
+    <image name="characters 6">
+      <file name="characters 6.png" size="604" />
+    </image>
+    <image name="characters 7">
+      <file name="characters 7.png" size="600" />
+    </image>
+    <image name="characters 8">
+      <file name="characters 8.png" size="623" />
+    </image>
+    <image name="characters">
+      <file name="characters.png" size="519" />
+    </image>
+    <image name="zombie 2">
+      <file name="zombie 2.png" size="549" />
+    </image>
+    <image name="zombie">
+      <file name="zombie.png" size="472" />
+    </image>
+    <image name="zombie 2 flip">
+      <file name="zombie 2 flip.png" size="561" />
+    </image>
+    <image name="characters flip">
+      <file name="characters flip.png" size="522" />
+    </image>
+    <image name="characters 2 flip">
+      <file name="characters 2 flip.png" size="537" />
+    </image>
+    <image name="characters 3 flip">
+      <file name="characters 3 flip.png" size="543" />
+    </image>
+    <image name="characters 4 flip">
+      <file name="characters 4 flip.png" size="561" />
+    </image>
+    <image name="characters 5 flip">
+      <file name="characters 5 flip.png" size="595" />
+    </image>
+    <image name="characters 6 flip">
+      <file name="characters 6 flip.png" size="607" />
+    </image>
+    <image name="zombie flip">
+      <file name="zombie flip.png" size="464" />
+    </image>
+    <image name="characters 7 flip">
+      <file name="characters 7 flip.png" size="609" />
+    </image>
+    <image name="characters 8 flip">
+      <file name="characters 8 flip.png" size="621" />
+    </image>
+  </images>
+  <behaviors />
+</assets>
